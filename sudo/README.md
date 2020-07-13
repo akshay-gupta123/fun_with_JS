@@ -1,7 +1,7 @@
 ## Sudols
 
 **It's a miniature version of much versatile <em>ls command</em> of linux terminal <br>**
-**As ls is not available in Windows so helps me a little while working on Windows also become a mini project for my node js skills**
+**As <em>ls command</em> is not available in Windows so helps me a little while working on Windows also become a mini project for my node js skills**
 
 ## Usage
 
